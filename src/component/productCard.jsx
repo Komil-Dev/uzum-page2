@@ -290,9 +290,10 @@ const ProductCard = ({ good }) => {
                           bgcolor: "Yellow",
                           mr: 2,
                           textAlign: "center",
-                          paddingTop: "1px",
+                          paddingTop: "1%",
                           alignItems: "center",
-                          fontSize: "15px",
+                          fontSize: "13px",
+                          fontWeight: 700,
                         }}
                       >
                         yozgi savdo
